@@ -1,0 +1,14 @@
+node_modules/
+dist/
+.env
+logs/
+.system_generated/
+*.log
+.DS_Store
+.gemini/
+.idea/
+.vscode/
+client/dist/
+server/dist/
+client/node_modules/
+server/node_modules/

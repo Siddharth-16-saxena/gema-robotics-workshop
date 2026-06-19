@@ -1,2 +1,10 @@
 2026-06-20 01:24:25:2425 [31merror[39m: [31mOperation `enquiries.insertOne()` buffering timed out after 10000ms - POST /api/enquiry - IP: ::ffff:127.0.0.1[39m
 2026-06-20 01:24:46:2446 [33mwarn[39m: [33mMONGODB_URI is not configured. falling back to simulated local in-memory storage.[39m
+2026-06-20 01:26:40:2640 [33mwarn[39m: [33mMONGODB_URI is not configured. falling back to simulated local in-memory storage.[39m
+2026-06-20 01:26:40:2640 [32minfo[39m: [32mServer is running in development mode on port 5000[39m
+2026-06-20 01:31:59:3159 [35mhttp[39m: [35mPOST /api/enquiry - IP: ::1[39m
+2026-06-20 01:31:59:3159 [32minfo[39m: [32mSimulated Enquiry Saved (InMemory): {"_id":"mock_1781899319117_ibidrfq","name":"John Doe","email":"parent@example.com","phone":"+919876543210","createdAt":"2026-06-19T20:01:59.117Z","updatedAt":"2026-06-19T20:01:59.117Z"}[39m
+2026-06-20 01:33:11:3311 [35mhttp[39m: [35mPOST /api/enquiry - IP: ::1[39m
+2026-06-20 01:33:11:3311 [32minfo[39m: [32mSimulated Enquiry Saved (InMemory): {"_id":"mock_1781899391411_8nfvsyt","name":"John Doe","email":"parent@example.com","phone":"+919876543210","createdAt":"2026-06-19T20:03:11.411Z","updatedAt":"2026-06-19T20:03:11.411Z"}[39m
+2026-06-20 01:34:04:344 [35mhttp[39m: [35mPOST /api/enquiry - IP: ::1[39m
+2026-06-20 01:34:04:344 [32minfo[39m: [32mSimulated Enquiry Saved (InMemory): {"_id":"mock_1781899444675_0jeops3","name":"Alice","email":"alice@example.com","phone":"+919876543210","createdAt":"2026-06-19T20:04:04.675Z","updatedAt":"2026-06-19T20:04:04.675Z"}[39m
