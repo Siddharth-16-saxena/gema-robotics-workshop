@@ -1,3 +1,4 @@
+/// <reference types="vite/client" />
 import { useMutation } from '@tanstack/react-query';
 import { EnquirySchemaType } from '../schemas/enquirySchema';
 

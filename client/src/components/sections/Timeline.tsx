@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import { motion, AnimatePresence } from 'framer-motion';
-import { BookOpen, Cpu, ShieldAlert, Sparkles, Terminal } from 'lucide-react';
+import { BookOpen, Cpu, Sparkles, Terminal } from 'lucide-react';
 
 export const Timeline: React.FC = () => {
   const [activeWeek, setActiveWeek] = useState(0);
